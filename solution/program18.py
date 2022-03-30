@@ -10,7 +10,7 @@ def evennumber(l):
     count=0
     for i in l:
         count+=l
-    if len(l)%2==0:
+   // if len(l)%2==0:
             print(l)
     return(count)
 createlist()
